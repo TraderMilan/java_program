@@ -19,6 +19,7 @@ public class HadajCislo {
                 } catch (Exception e) {
                     System.out.println("Invalid input, try again ");
                     scanner.nextLine();
+                    System.out.println("lokaf");
                 }
             }
         }
