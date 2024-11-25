@@ -18,6 +18,7 @@ public class Main {
                 System.out.println("Invalid input");
                 scanner.nextLine();
             }
+            System.out.println("uprava");
 
         }
         System.out.println("Your number is: " + number);
